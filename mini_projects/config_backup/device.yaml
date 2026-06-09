@@ -1,1 +1,9 @@
-devices: - hostname: R1 ip: 10.1.1.1 - hostname: R2 ip: 10.1.1.2
+
+devices:
+  - hostname: R1
+    ip: 10.1.1.1
+    role: Router
+
+  - hostname: SW1
+    ip: 10.1.1.2
+    role: Switch
