@@ -1,0 +1,17 @@
+==================================================
+Device: R1
+==================================================
+
+Interface              IP-Address      Status
+Gi0/0                  10.1.1.1        up
+Gi0/1                  unassigned      down
+Gi0/2                  unassigned      up
+
+==================================================
+Device: R2
+==================================================
+
+Interface              IP-Address      Status
+Gi0/0                  10.1.2.1        up
+Gi0/1                  unassigned      up
+Gi0/2                  unassigned      down
