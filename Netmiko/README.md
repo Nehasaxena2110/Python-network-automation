@@ -22,10 +22,7 @@ show version
 ### backup_config.py
 Collects and saves the running configuration.
 
-### show_ip_int_brief.py
-Retrieves interface status information.Similar code as for giving any show command.
-
-###Give-Mulitiple-Show-commands.py
+### Give-Mulitiple-Show-commands.py
 Gives multiple show commands at once.
 
 ## Requirements
