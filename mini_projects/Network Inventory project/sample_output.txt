@@ -1,0 +1,11 @@
+Inventory report generated.
+
+Devices Found: 2
+
+Hostname : R1
+IP       : 10.1.1.1
+Type     : cisco_ios
+
+Hostname : R2
+IP       : 10.1.1.2
+Type     : cisco_ios
